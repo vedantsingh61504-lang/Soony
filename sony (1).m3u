@@ -55,14 +55,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony BBC Earth HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617968~exp=1789621568~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=24b331953bcd907b13d32f639f478f3fb969b6800826637531f9a77ca29cbc93"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Yay Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -79,30 +71,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1804" tvg-name="Jan Setu News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" group-title="Sony liv" http-user-agent="Virat🐐",Jan Setu News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=100acfae07cb5cfa8a251fcacb9aecce:01aabd70ea7b21226f7eb4da9d7758fc
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jan_Setu_TV_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1886" tvg-name="Sansad TV Rajya Sabha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="Sony liv" http-user-agent="Virat🐐",Sansad TV Rajya Sabha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sansad_TV_RajyaSabha_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony LIV Sports 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3418" tvg-name="Sony MAX1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony MAX1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -111,62 +79,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX1_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3531" tvg-name="Sony Sports 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3525c924e54154b39533d86b1c7a428a:8548b566fc6608a7d3bd601ee5f3d889
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3532" tvg-name="Sony Sports 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91fce77f2f8056f084ed961c7ebe86ed:8214bd5eb6c21444e8ea644824affd79
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3533" tvg-name="Sony Sports 3 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 3 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=111e6908b965566e97139efddf7ef459:c87903abbc052e1f21e51ebd928d9cb1
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3534" tvg-name="Sony Sports 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 5 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cb7b40cefe053ea91895e3194bb9912:467cf6d740b7212fcfc648644fb79943
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3535" tvg-name="Sony Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3394be91407c5fe99d784d2f2d6d4a12:58665e1df41f9f22ed73c56384bb3f51
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3536" tvg-name="Sony Sports 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="3537" tvg-name="Sony Sports 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sony liv" http-user-agent="Virat🐐",Sony Sports 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2d8709de11d5955b60c57d3c955733e:7655200b24bf82808fb8addf2f02847b
-#EXTHTTP:{"cookie": "__hdnea__=st=1789617611~exp=1789639211~acl=/*~hmac=ef567976a1864f9603b156231fcc5826b2d1639592730647a1ef6e9179c90eb1"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" tvg-language="Hindi",SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
@@ -187,3 +99,23 @@ https://sliv.tgaadi.workers.dev/sonywah.m3u8
 https://sliv.tgaadi.workers.dev/pixhd.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" tvg-language="English",Sony BBC Earth HD
 https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1
+https://sliv.tgaadi.workers.dev/ten1sd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 2
+https://sliv.tgaadi.workers.dev/ten2sd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" tvg-language="Hindi",Sony Sports Ten 3
+https://sliv.tgaadi.workers.dev/ten3sd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" tvg-language="Hindi",Sony Sports Ten 4
+https://sliv.tgaadi.workers.dev/ten4sd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 5
+https://sliv.tgaadi.workers.dev/sonysixsd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1HD
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 2 HD
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" tvg-language="Hindi",Sony Sports Ten 3 HD
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" tvg-language="Hindi",Sony Sports Ten 4 HD
+https://sliv.tgaadi.workers.dev/ten4hd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" group-title="Sony liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 5 HD
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
